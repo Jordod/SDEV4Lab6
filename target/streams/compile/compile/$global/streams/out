@@ -1,0 +1,9 @@
+[0m[[0m[31merror[0m] [0m[0m/media/sf_student/lab6/app/controllers/ShoppingCtrl.java:193:1: no suitable method found for minus(java.time.LocalDateTime)[0m
+[0m[[0m[31merror[0m] [0m[0m    method java.time.temporal.Temporal.minus(java.time.temporal.TemporalAmount) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (argument mismatch; java.time.LocalDateTime cannot be converted to java.time.temporal.TemporalAmount)[0m
+[0m[[0m[31merror[0m] [0m[0m    method java.time.chrono.ChronoLocalDateTime.minus(java.time.temporal.TemporalAmount) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (argument mismatch; java.time.LocalDateTime cannot be converted to java.time.temporal.TemporalAmount)[0m
+[0m[[0m[31merror[0m] [0m[0m    method java.time.LocalDateTime.minus(java.time.temporal.TemporalAmount) is not applicable[0m
+[0m[[0m[31merror[0m] [0m[0m      (argument mismatch; java.time.LocalDateTime cannot be converted to java.time.temporal.TemporalAmount)[0m
+[0m[[0m[31merror[0m] [0m[0mnow.minus[0m
+[0m[[0m[0minfo[0m] [0m[0mSome messages have been simplified; recompile with -Xdiags:verbose to get full output[0m
